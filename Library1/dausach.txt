@@ -1,0 +1,21 @@
+20
+B12345,Bong Ma Tren Mang,524,William L Simon,2018,Hanh Dong,20,Ke 9
+C15678,Ca Phe Cung Tony,268,Tony Buoi Sang,2017,Cuoc Song,1000,Tu 10
+C12345,Cam Nang Tu Hoc,100,Kien Tran,2000,Tieng Anh,10,Ke 4
+C12346,Clean Code,462,Robert C.Martin,2010,It,20,Ke 6
+C12359,Conan,100,Aoyama,2005,Hoat Hinh,100,Ke 10
+D45678,Dac Nhan Tam,80,Dale Carnegic,2015,Cuoc Song,10,Ke 5
+D12345,Di Tim Le Song,220,Viktor Emil Frankl,2016,Cuoc Song,20,Tu 1
+H12345,Hack Nao 1500 Tu Tieng Anh,488,Nguyen Van Hiep,2019,Tieng Anh,20,Tu 5
+H14725,Hai So Phan,636,Jeffrey Archer,2014,Cuoc Song,15,Tu 2
+HTVPD1,Hanh Trinh Ve Phuong Dong,256,Bair T Spalding,2019,Ton Giao,5,Ke 15
+HP1234,Harry Potter 2,359,Rowling,2014,Hoat Hinh,10,Ke 20
+K12345,Khong Theo Loi Mon,100,Ellen Singer,2016,Cuoc Song,10,Tu 3
+C45678,Lap Trinh C++,488,Pham Van At,2019,It,1000,Tu 3
+L12345,Lap Trinh Va Cuoc Song,100,Jeft Atwood,2000,It,10,Ke 1
+NGK123,Nha Gia Kim,100,Paulo Coelho,2000,Cuoc Song,10,Ke 2
+TG1234,The Gioi 3 Khong,248,Muhammad Yunus,2019,Kinh Te,10,Ke 8
+T12345,The Gioi Phang,720,Thomas L. Friedman,2014,Kinh Te,10,Ke 7
+TT4567,Tiep Thi 4.0,264,Nguyen Khoa Hong,2019,Kinh Te,10,Tu 9
+TDB354,Tren Duong Bang,100,Tony Buoi Sang,2000,Cuoc Song,10,Ke 3
+LJ1234,Lap Trinh Java,1000,Tac Gia,2019,It,1000,Ke 10
